@@ -243,7 +243,7 @@ Customfile
 /home
 
 # Ignore Nugrant config
-/.vagrantuser
+# /.vagrantuser
 
 ### Project specific ###
 
