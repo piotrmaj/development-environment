@@ -348,5 +348,5 @@ SCRIPT
   config.vm.provision :reload
 
   # Force password change on first use
-  config.vm.provision 'shell', inline: 'chage --lastday 0 vagrant'
+  # config.vm.provision 'shell', inline: 'chage --lastday 0 vagrant'
 end
